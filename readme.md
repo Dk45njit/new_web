@@ -3,4 +3,4 @@
 [Project 2](http://article23.eastus.azurecontainer.io)
 
 
-<h1>Dhananjay Krishnam Ramanatha Gupta</h1>
+<h1>Dhananjay Gupta Krishnam Ramanatha Gupta</h1>
