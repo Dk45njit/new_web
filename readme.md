@@ -1,4 +1,4 @@
-<h1>History of the Internet IS601 with aricles</h1>
+<h1>History of the Internet IS601 with articles</h1>
 
 [Project 2](http://article23.eastus.azurecontainer.io)
 
